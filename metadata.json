@@ -1,0 +1,6 @@
+{
+  "name": "The Data Mind Cafe",
+  "description": "A nostalgic sanctuary blending late-night cyber cafe culture, CRT monitor glow, 56k dial-up memories, and lo-fi cafe ambience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
